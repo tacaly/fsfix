@@ -1,4 +1,5 @@
 const startTime = new Date()
+
 if(!fs.existsSync("logs")){
     fs.mkdirSync("logs", 0766, function(err){
         if(err){
