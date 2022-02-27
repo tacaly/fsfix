@@ -16,7 +16,7 @@
     "filelogger",
     "filesystemlogger"
   ],
-  "author": "Tacaly - Frederick Ambo",
+  "author": "Frederick Ambo",
   "license": "Apache-2.0",
   "bugs": {
     "url": "https://github.com/tacaly/fsz/issues"
