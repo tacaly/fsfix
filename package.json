@@ -1,14 +1,14 @@
 {
-  "name": "fsz",
+  "name": "fsfix",
   "version": "0.0.1",
   "description": "Logs Node.js data to file and console",
-  "main": "fsz.js",
+  "main": "fsfix.js",
   "scripts": {
     "test": "log"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/tacaly/fsz.git"
+    "url": "git+https://github.com/tacaly/fsfix.git"
   },
   "keywords": [
     "Logger",
@@ -19,7 +19,7 @@
   "author": "Frederick Ambo",
   "license": "Apache-2.0",
   "bugs": {
-    "url": "https://github.com/tacaly/fsz/issues"
+    "url": "https://github.com/tacaly/fsfix/issues"
   },
-  "homepage": "https://github.com/tacaly/fsz#readme"
+  "homepage": "https://github.com/tacaly/fsfix#readme"
 }
